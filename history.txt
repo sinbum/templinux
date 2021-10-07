@@ -1,0 +1,960 @@
+    1  sudo passwd
+    2  ls
+    3  su
+    4  ls
+    5  cd home
+    6  ls
+    7  ls-all
+    8  ls -al
+    9  cd ..
+   10  ls
+   11  cd ..
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd ..
+   16  ls
+   17  cleaer
+   18  clear
+   19  ls
+   20  cd home
+   21  ls
+   22  cd sinbum3419/
+   23  ls
+   24  mkdir aa
+   25  ls
+   26  aa
+   27  cd aa
+   28  ls
+   29  cd ..
+   30  ls
+   31  rm aa
+   32  remove aa
+   33  ls
+   34  rm aa/
+   35  rm -f aa
+   36  rmdir aa
+   37  ls
+   38  ls -al
+   39  whoami
+   40  whoareyou
+   41  whoami
+   42  hostname
+   43  hostnmae
+   44  hostname
+   45  pwd
+   46  echo "mongta"
+   47  echo "mongta \n test"
+   48  echo "mongta -n test"
+   49  echo -en "mongta \n test" > 1.txt
+   50  ls
+   51  vi 1.txt
+   52  cat 1.txt
+   53  echo -en "mongta \n test" >> 2.txt
+   54  ls
+   55  cat 2.txt
+   56  ls -l
+   57  ls -l > 3.txt
+   58  ls
+   59  3.txt
+   60  ls
+   61  vi 3.txt
+   62  ls -l
+   63  ls \grep txt \wc -1
+   64  ls | grep tt |wc -1
+   65  ls | grep txt |wc -1
+   66  ls -l \wc
+   67  history
+   68  echo $HISTSIZE
+   69  ps -ef
+   70  clear
+   71  history
+   72  echo $path
+   73  echo $PATH
+   74  echo pwd
+   75  pwd
+   76  java -version
+   77  java
+   78  java -version
+   79  which ls
+   80  which cat
+   81  whereis ls
+   82  where cat
+   83  whereis cat
+   84  which ls
+   85  which python
+   86  env | grep LANG
+   87  env \ grep LANG
+   88  ls
+   89  env | grep LANG
+   90  ㅡ무
+   91  man
+   92  ls
+   93  alias l="ls -al"
+   94  l
+   95  p
+   96  l
+   97  alias p="ps -ef"
+   98  while read line; do echo sline; dowe <hello.xtxh; while read line; do echo sline; dowe  <hello.txt
+   99  ls
+  100  vi 1.txt
+  101  ls
+  102  nano 1.txt
+  103  gedit 1.txt
+  104  vim 1.txt
+  105  퍄
+  106  vi 1.txt
+  107  ls
+  108  vi 1.txtx
+  109  ls
+  110  vi 1.txt 
+  111  ls
+  112  ls -l
+  113  ls -al
+  114  cat
+  115  cat 1.txt
+  116  cat test.sh
+  117  more 1.txt
+  118  less 1.txt
+  119  touch zero.txt
+  120  ls -al
+  121  cat zero.txtx
+  122  cat zero.txt
+  123  rm zero.txt
+  124  ls
+  125  ls -al
+  126  /..
+  127  ls
+  128  list
+  129  ls
+  130  ls -a
+  131  ls -al
+  132  ls -a -l
+  133  ls *.txt
+  134  ls -al *.txt
+  135  ls -al *.txtx
+  136  ls -al *.txt
+  137  cat /etc/passwd
+  138  tail 1.txt
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd sinbum3419/
+  143  ls
+  144  mkdir test
+  145  ls
+  146  cd test
+  147  mkdir -p dir2/sub1
+  148  l
+  149  cd dir2
+  150  ls
+  151  cd ..
+  152  ls
+  153   cd ..
+  154  ls
+  155  cd test
+  156  ls
+  157  rmdir dir2
+  158  ls
+  159  rmdir dir2
+  160  rm -rf dir2
+  161  ls
+  162  cd ..
+  163  ls
+  164  cd test
+  165  ls
+  166  touch hello.txt
+  167  ls
+  168  ln -s hello.txt hellosymlink
+  169  ln hello.txt hellolink
+  170  ls -ali
+  171  histoyry
+  172  history
+  173  ls -ali
+  174  ls
+  175  man -a printf
+  176  vimtutor 
+  177  env | grep LANG
+  178  LANG=ko_KR.utf8
+  179  env | grep LANG
+  180  history
+  181  vimtutor
+  182  history
+  183  vimtutor
+  184  sudo apt-get install nano
+  185  sudo nano hello.txt
+  186  rpm -qa
+  187  rpm -qa |grep nano
+  188  yum install nano -y
+  189  su
+  190  cd test
+  191  ls
+  192  vi hello.txt
+  193  tail hello.txt
+  194  more hello.txt
+  195  vi hello.txt
+  196  more hello.txt
+  197  vi hello.txt
+  198  vim hello.txt
+  199  history
+  200  ls
+  201  vi hellosymlink
+  202  ㅣㄴ
+  203  ls
+  204  cd test
+  205  ls
+  206  hello.txt
+  207  history
+  208  ls
+  209  vimtutor
+  210  ls
+  211  history > 12.txt
+  212  ls
+  213  more 12.txt
+  214  ls
+  215  vi hellosymlink
+  216  ls
+  217  cd test
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd test
+  222  ls
+  223  cealr
+  224  clear
+  225  ls -al
+  226  cd
+  227  ls
+  228  cd test
+  229  cd
+  230  umask
+  231  chmod775
+  232  chmod 775
+  233  chmod775
+  234  chmod775 test
+  235  ls -a
+  236  kls -al
+  237  ls -al
+  238  chmod 775 test
+  239  ls
+  240  ls -al
+  241  chmod 440 test
+  242  ls
+  243  ls -al
+  244  chmod 775 test
+  245  ls
+  246  ls -al
+  247  ㅣㄴ
+  248  ls
+  249  chmod 300 1.txt
+  250  ls
+  251  ls -al
+  252  vi 1.txt
+  253  ls
+  254  ls -al
+  255  vi 1.txt
+  256  chmod 777 1.txt
+  257  vi 1.txt
+  258  vi 440 1.txt
+  259  ls
+  260  ls -al
+  261  ls
+  262  chmod 660 1.txtx
+  263  chmod 660 1.txt
+  264  clear
+  265  ls
+  266  ls -al
+  267  vi 1.txt
+  268  ls
+  269  vi 1.txt
+  270  ls
+  271  ls -al
+  272  ls
+  273  chmod 000 1.txt
+  274  ls
+  275  ls -al
+  276  vi 1.txt
+  277  chmod 666 1.txt
+  278  ls
+  279  ls -al
+  280  vi 1.txt
+  281  nano 2.txt
+  282  vim 2.txt
+  283  chmod 000 2.txt
+  284  ls -al
+  285  vi 2.txt
+  286  chmod 666 2.txt
+  287  ls -al
+  288  vi 2.txtx
+  289  vi 2.txt
+  290  chmod 000 2.txt
+  291  vi 2.txtx
+  292  vi 2.txt
+  293  chmod 666 2.txt
+  294  vi 2.txt
+  295  clela
+  296  clear
+  297  ls -al
+  298  ls -al | grep 1.txt
+  299  grep 1.txt
+  300  echo "1.txt"
+  301  ls > file.txt
+  302  ls
+  303  aaa > file.txt
+  304  aaa 2 > file.txt
+  305  echo "Hello" > hello.txt
+  306  ls
+  307  vi hello.txt
+  308  cat < hello.txt
+  309  cat < 1.txt
+  310  ls
+  311  cat < 3.txt
+  312  vi 3.5t
+  313  vi 3.txt
+  314  cat
+  315  cat << end
+  316  ls -l \ grep 1
+  317  ls -l | grep 1
+  318  ls -1  grep 1.txt
+  319  ls -l | grep 1.txt
+  320  ls -l | wc -l
+  321  vi 1.txt
+  322  ls -l
+  323  clear
+  324  ls -al
+  325  ls -l |wc |l
+  326  ls -l | wc -l
+  327  ls -l | grep 1.txt | wc -l
+  328  cat 1.txt | more
+  329  cat 1.txt
+  330  ls
+  331  cat 3.txt
+  332  cat t.xtx | more
+  333  cat 3.txt | more
+  334  cleaer
+  335  clear
+  336  cat 3.txt
+  337  cat 3.txt |more
+  338  cat 3.txt | ore
+  339  cat 3.txt | more
+  340  cat 2.txt | more
+  341  vi 2.txt
+  342  cat 2.txt | more
+  343  ls
+  344  ls -al
+  345  cat 2.txt
+  346  ls
+  347  cat 2.txt |more
+  348  cat 2.txt | mmore
+  349  cat 2.txt | more
+  350  cleaer
+  351  clear
+  352  cat 2.txt
+  353  cat 2.txt | more
+  354  clear
+  355  cat etc/*-release
+  356  ls -al
+  357  find . *.txt
+  358  find . 1.txt
+  359  find *.txt
+  360  find . -name "te*"
+  361  ps x
+  362  ps x | grep /bin
+  363  ps x | grep -v /bin
+  364  netstat
+  365  net stat -al
+  366  netstat -al
+  367  ipconfig
+  368  netstat -al
+  369  clear
+  370  ls -l
+  371  ls -l \ awk '(print $1)'
+  372  ls -l | awk '(print $1)'
+  373  ls -l | awk '{print $1}'
+  374  ls -l | awk '{print $2}'
+  375  ls -l
+  376  ls -l awk '{print $3}'
+  377  ls -l | awk '{print $3}'
+  378  ls - al
+  379  ls -l
+  380  du -k
+  381  du
+  382  du -m
+  383  du -k
+  384  du -h
+  385  du -H
+  386  du -h
+  387  du - h
+  388  du -s
+  389  du -h | awk '{print $1}'
+  390  du -h
+  391  du -S | sort -n
+  392  sort -n
+  393  cd
+  394  du
+  395  du -h
+  396  cd ~
+  397  du -h
+  398  du -sh
+  399  du -sh *
+  400  ls
+  401  tar cvf testzip.tar test
+  402  ls
+  403  tar z testzip.tar
+  404  ls
+  405  tar cvfj testzip2.tar.bz2 test
+  406  ls
+  407  rm testzip.tar 
+  408  ls
+  409  rm testzip2.tar.bz2 
+  410  ls
+  411  gzip test
+  412  ls
+  413  gzip 1.txt
+  414  ls
+  415  xz -d 1.txt.gz
+  416  gzip -d 1.txt.gz
+  417  ls
+  418  bash$ cat find_old.sh
+  419  ls -al /boot
+  420  ls
+  421  cd test
+  422  ls
+  423  cd ..
+  424  cd
+  425  ls
+  426  cd test
+  427  cd
+  428  ls
+  429  cd
+  430  cd test
+  431  ls
+  432  cd
+  433  ls
+  434  cd test
+  435  cd ~
+  436  ls
+  437  clear
+  438  history
+  439  cat /etc/*-release
+  440  cat /etc/* -release
+  441  cat /etc/*-release
+  442  cleaer
+  443  clear
+  444  cat /etc/*-release
+  445  ls
+  446  ls -l /var
+  447  ls
+  448  which test
+  449  echo $HISTSIZE
+  450  cd ..
+  451  history > history.txt
+  452  ls
+  453  cdsinbum3419
+  454  ls
+  455  cd sinbum3419/
+  456  ls
+  457  history > history.txt
+  458  ls
+  459  more history.txt
+  460  ls
+  461  vi history.txt
+  462  which python
+  463  cd /usr/bin/python
+  464  python
+  465  python -version
+  466  python -v
+  467  cleare
+  468  ls
+  469  clear
+  470  ls
+  471  cat /usr/share/doc/vin/copyright
+  472  cat /usr/share/doc/vim/copyright
+  473  ls
+  474  cat 1.txt
+  475  cat 3.txt
+  476  cat 3.txt | sed 's/5/56/g'
+  477  cat 3.txt | sed 's/.$/!/g'
+  478  ls -l | sed 's/[a-z]/\U&/g'
+  479  ls
+  480  ls -l
+  481  cat 3.txt | sed 's/[A-Z]/\L&/g'
+  482  wc 3.txt
+  483  cat 4.txt
+  484  cat 3.txt
+  485  df
+  486  apt get install github
+  487  service --status-all
+  488  systemctl status
+  489  systemctl cat <service-name>.service
+  490  systemctl cat sshd.service
+  491  sudo systemctl edit --full sshd.service
+  492  systemctl cat <service-name>.service
+  493  systemctl cat<service-name>.service
+  494  systemctl list-units
+  495  systemctl list-units | grep run*
+  496  systemctl status <servicename>.service
+  497  systemctl cat cups.service
+  498  systemctl cat sshd.service
+  499  cleaer
+  500  clear
+  501  systemctl cat sshd.service
+  502  cd..
+  503  cd ..
+  504  ls
+  505  cd../..
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd usr/local/sbin/
+  510  ls
+  511  vim my-script.sh
+  512  ls
+  513  vi my-script.sh
+  514  sudo vi my-script.sh
+  515  vi my-script.sh 
+  516  ls
+  517  ls -al
+  518  chomd 777 my-script.sh
+  519  chmod 777 my-script.sh
+  520  sudo chmod 777 my-script.sh
+  521  ls -al
+  522  sudo chmod 744 my-script.sh
+  523  ls
+  524  my-script.sh
+  525  sudo my-script.sh
+  526  sh my-script.sh
+  527  ls
+  528  vi my-script.sh 
+  529  cd /tmp/mylog.log 
+  530  cat /tmp/mylog.log
+  531  bash my-script.sh
+  532  cat /tmp/mylog.log 
+  533  sudo vi my-script.sh 
+  534  ls
+  535  cat /tmp/mylog.log 
+  536  sudo vim /etc/system/my-startup.service
+  537  su
+  538  ls
+  539  sudo cd /etc/systemd/system/
+  540  ls
+  541  cd /etc/systemd/system
+  542  ls
+  543  sudo vi my-startup.service 
+  544  sudo systemctl start my-startup.service 
+  545  sudo vi my-startup.service
+  546  systemctl status my-startup.service
+  547  sudo systemctl status my-startup.service 
+  548  systemctel enable my-startup.service 
+  549  sudo systemctl enable my-startup.service 
+  550  sudo systemctl start my-startup.service
+  551  sudo chmod +x /usr/local/sbin/my-script.sh
+  552  sudo systemctl start my-startup.service
+  553  systemctl status my-startup.service
+  554  sudo vi  /etc/systemd/system/my-daemon.service
+  555  sudo vi /usr/local/sbin/my-daemon.sh
+  556  sudo chmod +x /usr/local/sbin/my-daemon.sh
+  557  systemctl status my-daemon.service
+  558  sudo systemctl start my-daemon.service 
+  559  journalctl -u my-daemon.service -f
+  560  systemctl kill my-daemon.service
+  561  sudo systemctl kill my-daemon.service 
+  562  ls
+  563  vim /usr/local/sbin/my-daemon.sh
+  564  systemctl status my-daemon.service
+  565  sudo systemctl start my-daemon.service
+  566  journalctl -u my-daemon.service -f
+  567  sudo /usr/local/sbin/my-daemon.sh
+  568  ls
+  569  sudo vim /etc/systemd/system/my-daemon.service
+  570  vim /usr/local/sbin/my-daemon.sh 
+  571  sudo chmod 775 /usr/local/sbin/my-daemon.sh
+  572  sudo /usr/local/sbin/my-daemon.sh
+  573  sudo vim /etc/systemd/system/my-daemon.service
+  574  sudo vim /usr/local/sbin/my-daemon.sh
+  575  sudo systemctl start my-daemon.service 
+  576  systemctl daemon-reload
+  577  sudo systemctl daemon-reload
+  578  sudo systemctl start my-daemon.service
+  579  journalctl -u my-daemon -f
+  580  pwd
+  581  ls -al
+  582  sudo chmod 775 my-daemon.service
+  583  systemctl status my-daemon.service 
+  584  systemctl daemon-reload
+  585  sudo systemctl start my-daemon.service
+  586  journalctl -u my-daemon -f
+  587  sudo system ctl kill my-daemon.service
+  588  sudo vim /etc/systemd/system/my-daemon.service
+  589  sudo vim /usr/local/sbin/my-daemon.sh
+  590  cd /usr/local/sbin/
+  591  ls -a
+  592  ls -l
+  593  ls
+  594  sh my-daemon.sh
+  595  ls
+  596  cd /etc/systemd/system
+  597  systemctl status my-daemon.service
+  598  sudo systemctl restart my-daemon.service
+  599  systemctl status my-daemon.service 
+  600  ls
+  601  /etc/systemd/system/my-daemon.service
+  602  systemctl start my-daemon.service
+  603  sudo systemctl start my-daemon.service
+  604  journalctl -u my-daemon.service -f
+  605  whoami
+  606  whoisgroup
+  607  cat /etc/group
+  608  tail -n 5 /etc/group
+  609  sudo vim /etc/systemd/system
+  610  cd /etc/systemd/system
+  611  sudo my-daemon.service 
+  612  sudo vim my-daemon.service 
+  613  systemctl status my-daemon.service 
+  614  sudo systemctl daemon-reload
+  615  sudo systemctl start my-daemon.service 
+  616  journalctl -u my-daemon -f
+  617  ls
+  618  sh test.sh >> test.log
+  619  sh /usr/local/sbin/my-daemon.sh >> test.log
+  620  sudo sh /usr/local/sbin/my-daemon.sh >> test.log
+  621  chmod +x /usr/local/sbin/my-daemon.sh
+  622  sudo chmod +x /usr/local/sbin/my-daemon.sh
+  623  sudo sh /usr/local/sbin/my-daemon.sh >> test.log
+  624  sudo sh /usr/local/sbin/my-daemon.sh > test.log
+  625  cd /usr/local/sbin/my-daemon.sh
+  626  cd /usr/local/sbin/
+  627  ls -l
+  628  sh my-daemon.sh
+  629  sh my-daemon.sh > test.log
+  630  sudo sh my-daemon.sh >> test.log
+  631  jobs
+  632  systemctl kill my-daemon.sh 
+  633  sudo systemctl kill my-daemon.sh 
+  634  sudo systemctl kill my-daemon.service
+  635  sudo sh my-daemon.sh >> test.log
+  636  ps -ef
+  637  ls
+  638  ps -ef
+  639  ls
+  640  kill -1
+  641  kill -l
+  642  uname
+  643  uname -a
+  644  lsof
+  645  nc
+  646  sudo yum install nc
+  647  nc
+  648  free
+  649  top
+  650  vmstat
+  651  vmstat 1 1000
+  652  uptime
+  653  ifconfig
+  654  cleare
+  655  clear
+  656  ifconfig
+  657  ulimit -a
+  658  ps -ef | wc -l
+  659  cron
+  660  anacron
+  661  cron
+  662  crontab
+  663  cron -l
+  664  man crontab
+  665  ls
+  666  sh my-script.sh 
+  667  sh my-daemon.sh 
+  668  cp my-daemon.sh /home/sinbum3419/test/
+  669  cd 
+  670  ls
+  671  cd test
+  672  ls
+  673  vi my-daemon.sh 
+  674  sh my-daemon.sh 
+  675  vi my-daemon.sh 
+  676  sh my-daemon.sh 
+  677  crontab -e
+  678  ls
+  679  crontab -e
+  680  pwd
+  681  cd..
+  682  crontab -e
+  683  pwd
+  684  ls
+  685  cd ..
+  686  ls
+  687  pwd
+  688  cron -e
+  689  crontab -e
+  690  pwd
+  691  cd test
+  692  ls
+  693  crontab -e
+  694  cat /etc/crontab
+  695  ls
+  696  cat test.sh.log
+  697  vi my-daemon.sh
+  698  ls
+  699  crontab -e
+  700  ls
+  701  cat test.sh.log 
+  702  nano test.sh.log 
+  703  crontab -e
+  704  ls
+  705  cat crontest.txt
+  706  crontab -e
+  707  ls
+  708  cat crontest.txt 
+  709  rm test.sh.log 
+  710  ls
+  711  rm 12.txt 
+  712  ls
+  713  rm hellosymlink
+  714  ls
+  715  cat crontest.txt
+  716  crontab -e
+  717  cat crontest.txt
+  718  cd /dev/null 
+  719  ls
+  720  crontab
+  721  crontab -e
+  722  ls
+  723  crontab -e
+  724  ls
+  725  cat crontest.txt
+  726  ls
+  727  clear
+  728  ls
+  729  vi my-daemon.sh 
+  730  vi listall.sh
+  731  ls
+  732  vi my-daemon.sh 
+  733  ls
+  734  vi listall.sh 
+  735  crontab -e
+  736  ls
+  737  cd /var/spool/mail/sinbum3419 
+  738  ls
+  739  cat listall.sh
+  740  vim my-daemon.sh 
+  741  vi listall.sh 
+  742  ls
+  743  cat listall.sh 
+  744  vi my-daemon.sh 
+  745  vi listall.sh 
+  746  ls
+  747  crontab -e
+  748  ls
+  749  cat listall.sh 
+  750  vim listall.sh 
+  751  ls
+  752  vi my-daemon.sh 
+  753  gedit a.txt
+  754  cd /var/spool/mail/sinbum3419
+  755  ls
+  756  ㄹㅎ
+  757  fg
+  758  bg
+  759  jobs
+  760  ps -u
+  761  p s-a
+  762  ps -a
+  763  ps -u
+  764  ps -x
+  765  ps -u
+  766  sudo yum istall lsof
+  767  sudo yum install lsof
+  768  lsof
+  769  lsof -i 6
+  770  cat /var/spool/mail/sinbum3419 
+  771  cat/dev/null > /var/spool/mail/root
+  772  sudo cat/dev/null > /var/spool/mail/root
+  773  sudo lsof -i 6
+  774  strace
+  775  strace -t
+  776  stract -t <cmd>
+  777  ipconif
+  778  ipconfig
+  779  ifconfig
+  780  ifconfig -a
+  781  if config > config.txt
+  782  ls
+  783  if config >> config.txt
+  784  ifconfig > config.log
+  785  ls
+  786  cat config.log
+  787  arp
+  788  rarp
+  789  route
+  790  netstat
+  791  netstat -l
+  792  nmap
+  793  tcpdump
+  794  nload
+  795  iptraf
+  796  yum install nmap
+  797  sudo yum install nmap
+  798  nmap
+  799  nmap -6
+  800  sudo yum install ipconfig
+  801  ipfoncif
+  802  ipconfig
+  803  cleare
+  804  clear
+  805  sudo yum install ipconfig
+  806  cleaer
+  807  clear
+  808  ping
+  809  ping -c
+  810  ping --c
+  811  ping -c
+  812  ping
+  813  ping -m
+  814  cleaer
+  815  clear
+  816  arp -an
+  817  arp
+  818  arp -d
+  819  sudo arp -d
+  820  arp -s
+  821  route
+  822  ip link
+  823  ip addr
+  824  traceroute
+  825  nslookup www.google.com
+  826  nc localhost 22
+  827  top
+  828  oute
+  829  route
+  830  ip
+  831  cleare
+  832  clear
+  833  route
+  834  ip
+  835  clear
+  836  ip
+  837  ip -v
+  838  ip -help
+  839  clear
+  840  netstat
+  841  ping
+  842  clear
+  843  ping
+  844  ping -c
+  845  ping --'c'
+  846  ping --c
+  847  pin count
+  848  ping -c
+  849  clear
+  850  ping
+  851  ping -ss
+  852  tracerout
+  853  traceroute
+  854  nslookup
+  855  nc
+  856  ping -c 3 8.8.8.8
+  857  ping www.naver.com
+  858  ip rule show
+  859  ip route show table 
+  860  ip route get 8.8.8.8
+  861  ip addr del 10.0.2.15/24 dev enp0s3
+  862  ping 8.8.8.8 -c 3
+  863  ping 8.8.8.8 -c 5
+  864  nslookup www.google.com
+  865  nslookup www.google.com 8.8.8.8
+  866  nload
+  867  iftop
+  868   nethogs
+  869  apt install nethogs
+  870  sudo yum install nethogs
+  871  nethogs -d
+  872  nethogs
+  873  sudo nethogs
+  874  bmon
+  875  sudo yum install bmon
+  876  bmon
+  877  yes .dev/null
+  878  yes
+  879  yes > /dev/null
+  880  yes >/dev/null
+  881  ps -ef | grep yes
+  882  p s-ef
+  883  ps -ef
+  884  ps -ef | grep yes
+  885  kill -9 19845
+  886  ps -ef | grep yest
+  887  ps -ef | grep yes
+  888  kill -9 19850
+  889  kill -9 19866
+  890  kill -9 19871
+  891  p s-ef
+  892  ps -ef
+  893  ps -ef | grep yes
+  894  yes > /dev/null
+  895  bg
+  896  jobs
+  897  ps -ef | grep yes
+  898  kill 19985
+  899  ps -ef | grep yes
+  900  sudo yum install gedit
+  901  ls
+  902  gedit 1.txt
+  903  sudo gedit 1.txt
+  904  ls
+  905  var=""test
+  906  var="test"
+  907  echo $var
+  908  119="낀급전화"
+  909  _119="긴급전화"
+  910  ㄷ쵀 $_119
+  911  echo _119
+  912  echo $_119
+  913  linux="CentOS Linux"
+  914  echo $linux
+  915  unset var
+  916  echo $var
+  917  name="CSB"
+  918  unset name
+  919  declare -r name="CSB"
+  920  echo $name
+  921  unset name
+  922  echo "나는 $naname"
+  923  echo "나는 $naame"
+  924  echo "나는 $name"
+  925  echo -e "i am\t$name" 
+  926  echo -e "i am\n$name"
+  927  echo -en "i am\n$name"
+  928  echo -n "i am\n$name"
+  929  printf "%s" $name
+  930  printf "%s\n" $name
+  931  pritnf "%s\t%s" $name you
+  932  name2="amy"
+  933  pritnf "%s\t%s" $name amy
+  934  printf "%s\t%s" $name you
+  935  printf "%s\t%s" $name amy
+  936  echo where are you from\?
+  937  echo wherer are you from\?
+  938  echo one line two line
+  939  echo this is \ hhy
+  940  echo this is
+  941  echo this isis dfkkdjfjkd
+  942  echo 'hello'
+  943  echo 'hello 
+this is shinbeom choi 
+and I  would like to say this
+'
+  944  echo "hello"
+  945  echo 'hello $name'
+  946  echo "hello $name"
+  947  date
+  948  cal
+  949  d=$(date)
+  950  echo $d
+  951  echo $cal
+  952  echo "$(cal)"
+  953  echo $(cal)
+  954  echo '$(cal)'
+  955  echo $(cal)
+  956  ls
+  957  history > history.txt
